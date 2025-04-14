@@ -1,6 +1,7 @@
 {
-  "id": "ffd20-classes",
-  "title": "ffd20-classes",
+  "id": "ffd20_classes",
+  "title": "ffd20_classes",
+  "name": "ffd20_classes",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
