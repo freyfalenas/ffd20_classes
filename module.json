@@ -1,0 +1,22 @@
+{
+  "id": "ffd20-classes",
+  "title": "ffd20-classes",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "ffd20-classes",
+      "label": "FFD20 Classes",
+      "path": "packs/ffd20-classes",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf1"
+    }
+  ]
+}
