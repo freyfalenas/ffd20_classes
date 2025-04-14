@@ -19,5 +19,7 @@
       },
       "system": "pf1"
     }
-  ]
+  ],
+  "manifest": "https://github.com/freyfalenas/ffd20_classes/blob/0.0.1/module.json",
+  "download": "https://github.com/freyfalenas/ffd20_classes/archive/refs/tags/0.0.1.zip"
 }
